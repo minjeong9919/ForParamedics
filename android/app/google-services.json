@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "721686387057",
+    "project_id": "happinesshan-c678a",
+    "storage_bucket": "happinesshan-c678a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721686387057:android:a40daea408fc5cf4557ed0",
+        "android_client_info": {
+          "package_name": "com.medicalpj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721686387057-72hn2med6cr5b2tig0bvntc1bi50oii5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medicalpj",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "721686387057-0hta4kj4b1ckhuhgeo98oal5cl3d2dse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDnxUi2PkYn4nSOBQIVNRzq32bWkLlQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721686387057-0hta4kj4b1ckhuhgeo98oal5cl3d2dse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
